@@ -77,13 +77,13 @@
   },
   "logo": {
     "light": "/logo/light.svg",
-    "dark": "/logo/emblem-dark.svg"
+    "dark": "/logo/emblem-dark.png"
   },
   "navbar": {
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:nicolas@faststack.ai"
       }
     ],
     "primary": {
@@ -95,7 +95,7 @@
   "footer": {
     "socials": {
       "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
+      "github": "https://github.com/faststack-labs",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
   }
